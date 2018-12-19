@@ -72,3 +72,4 @@ build/
 
 
 ios/Runner.xcworkspace/
+android/key.properties
